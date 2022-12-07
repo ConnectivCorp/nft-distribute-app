@@ -10,7 +10,7 @@ This NFT distribution webapp is compatible with the API function of "[NFT Garden
 
 ## NFT distribute webapp
 
-Distribute app by using the [NFT Garden](https://nftgarden.app) API(v1.1) and node.js. Before you start to building, make sure you have node.js(vXX.XX.X) installed.
+Distribute app by using the [NFT Garden](https://nftgarden.app) API(v1.1) and node.js. Before you start to building, make sure you have node.js(v18.4.0) installed.
 
 ## Build steps
 
