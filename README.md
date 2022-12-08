@@ -23,7 +23,7 @@ node -v
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```
-git clone https://github.com/ConnectivCorp/distributeapp.git
+git clone https://github.com/ConnectivCorp/nft-distribute-app.git
 ```
 
 ### Set API-KEY
