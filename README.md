@@ -14,12 +14,6 @@ Distribute app by using the [NFT Garden](https://nftgarden.app) API(v1.1) and no
 
 ## Build steps
 
-Start node.js
-
-```
-node -v
-```
-
 If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step.
 
 ```
