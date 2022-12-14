@@ -1,5 +1,7 @@
 # Welcome to NFT distribute webapp :zap:
 
+![nft_distribute_app](https://user-images.githubusercontent.com/41029842/207567656-6b8c201e-6948-44d2-a2bf-dd4e39af13aa.png)
+
 Welcome to the world of NFT!
 
 This NFT distribution webapp is compatible with the API function of "[NFT Garden](https://nftgarden.app)", a multi-chain minting platform. For more information, please check the Docs and website.
