@@ -1,6 +1,6 @@
 # Welcome to NFT distribute webapp :zap:
 
-![nft_distribute_app](https://user-images.githubusercontent.com/41029842/207567656-6b8c201e-6948-44d2-a2bf-dd4e39af13aa.png)
+![API_6](https://user-images.githubusercontent.com/41029842/214244563-08e4f0c2-c865-4f27-99d4-1a1915d97b37.png)
 
 Welcome to the world of NFT!
 
@@ -93,6 +93,8 @@ Change the setting of `src/lib/const_file/ChainGenaratorOptions.js` . You only n
 | Shibuya Network | astar-shibuya |
 | Fantom | fantom |
 | Fantom testnet | fantom-testnet |
+| BNB Chain | bnb-mainnet |
+| BNB Chain testnet | bnb-testnet |
 
 ```node
 
