@@ -6,13 +6,13 @@ Welcome to the world of NFT!
 
 This NFT distribution webapp is compatible with the API function of "[NFT Garden](https://nftgarden.app)", a multi-chain minting platform. For more information, please check the Docs and website.
 
-:link: [API Docs](https://devdocs.nftgarden.app/api/v1.1)
+:link: [API Docs](https://docs.nftgarden.app/en/api/nft-api/v1.1)
 
 :link: [NFT Garden | Multi-chain minting platform](https://nftgarden.app)
 
 ## NFT distribute webapp
 
-Distribute app by using the [NFT Garden](https://nftgarden.app) API(v1.1) and node.js. Before you start to building, make sure you have node.js(v18.4.0) installed.
+Distribute app by using the [NFT Garden API](https://docs.nftgarden.app/en/api/nft-api/v1.1)(v1.1) and node.js. Before you start to building, make sure you have node.js(v18.4.0) installed.
 
 ## Build steps
 
