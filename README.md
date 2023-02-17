@@ -95,6 +95,12 @@ Change the setting of `src/lib/const_file/ChainGenaratorOptions.js` . You only n
 | Fantom testnet | fantom-testnet |
 | BNB Chain | bnb-mainnet |
 | BNB Chain testnet | bnb-testnet |
+| Arbitrum One | arbitrum-one |
+| Arbitrum One Testnet | arbitrum-testnet |
+| Arbitrum Nova | arbitrum-nova |
+| Moonbeam | moonbeam |
+| Moonbase | moonbase |
+| Moonriver | moonriver |
 
 ```node
 
